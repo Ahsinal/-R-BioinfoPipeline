@@ -1,0 +1,24 @@
+# RStudio / R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# OS files
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Data (add if large/regenerable)
+# data/processed/
+# results/*.RData
+
+# Logs/outputs
+*.log
+*.tmp
+.Rd2md
+
+# IDE
+.vscode/
+.idea/
